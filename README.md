@@ -24,6 +24,9 @@
 13. [Countdown Timer](#countdown-timer)
 14. [Sum Even Numbers in Background](#sum-even-numbers-in-background)
 15. [Simple Text Adventure Game](#simple-text-adventure-game)
+16. [Contributing](#Contributing)
+17. [License](#License)
+18. [Contact](#Contact)
 
 ## Hello World
 Function `helloWorld()`, using `setTimeout` with callbacks, which logs two messages to the console with a time delay between them.
