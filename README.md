@@ -134,4 +134,11 @@ Creates a text-based adventure game that guides the player through choices leadi
   - Include simulated delays using promises and `setTimeout`.
   - Handle different scenarios and allow player to restart or end the game.
 
+## Contributing
+Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
+## License
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any questions or suggestions, please open an issue in the repository.
