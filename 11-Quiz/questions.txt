@@ -1,0 +1,8 @@
+What is 2 + 2?
+3, 4, 5
+
+What is the capital of France?
+Berlin, Madrid, Paris
+
+"What is the square root of 16?",
+4, 5, 6
