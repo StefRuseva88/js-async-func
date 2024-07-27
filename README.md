@@ -1,5 +1,8 @@
 # Exercise: JavaScript Async Functions I
 
+### This is a project for Front-End Technologies May 2024 Course @ SoftUni
+---
+
 ## Table of Contents
 1. [Hello World](#hello-world)
 2. [Chained Promises](#chained-promises)
