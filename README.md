@@ -70,7 +70,7 @@ Async function `simplePromiseAsync()` that waits for 2 seconds and then logs "As
   - Log the message after the delay.
 
 ## 9. Async Function with Error Handling
-Using async/await, write an async function `promiseRejectionAsync()` which throws an error and catches it, logging the error message.
+Async function `promiseRejectionAsync()` which throws an error and catches it, logging the error message.
 - **Requirements**
   - Create an async function that throws an error.
   - Catch the error and log the message.
