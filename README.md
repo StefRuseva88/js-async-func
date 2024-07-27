@@ -1,7 +1,5 @@
 # Exercise: JavaScript Async Functions I
 
-This exercise focuses on asynchronous functions in JavaScript, using callbacks, promises, and async/await. These problems aim to enhance your skills in handling asynchronous operations, making your code more efficient and responsive. The tasks range from simple timeout-based operations to complex asynchronous flows. These exercises are part of the "Front-End Test Automation" module at SoftUni.
-
 ## Table of Contents
 1. [Hello World](#1-hello-world)
 2. [Chained Promises](#2-chained-promises)
