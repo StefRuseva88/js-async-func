@@ -147,68 +147,68 @@ Creates a text-based adventure game that guides the player through choices leadi
 ## Exercise: JavaScript Async Functions II
 
 ### Simulating Network Request with Fetch
-Write a function `fetchData()` which fetches data from https://swapi.dev/api/people/1 and logs the JSON response.
+Function `fetchData()` which fetches data and logs the JSON response.
 - **Requirements**
   - Use the fetch API to get data.
   - Parse the response as JSON.
   - Log the JSON response to the console.
 
 ### Handling Fetch Errors
-Write a function `fetchDataWithErrorHandling()` which fetches data from https://swapi.dev/api/people/1 and handles potential errors using try/catch.
+Function `fetchDataWithErrorHandling()` which fetches data and handles potential errors using try/catch.
 - **Requirements**
   - Use the fetch API to get data.
   - Handle errors using try/catch.
   - Log the JSON response or any errors.
 
 ### Parallel Fetch Requests
-Write a function `fetchParallel()` which makes two parallel fetch requests to https://swapi.dev/api/people/1 and https://swapi.dev/api/people/2 and logs both results.
+Function `fetchParallel()` which makes two parallel fetch requests and logs both results.
 - **Requirements**
   - Make two parallel fetch requests.
   - Use Promise.all to handle the responses.
 
 ### Sequential Fetch Requests
-Write a function `fetchSequential()` which makes two sequential fetch requests to https://swapi.dev/api/people/1 and https://swapi.dev/api/people/2 and logs both results.
+Function `fetchSequential()` which makes two sequential fetch requests and logs both results.
 - **Requirements**
   - Make two sequential fetch requests.
   - Log each result after it is received.
 
 ### Multiple Promises
-Write a function `multiplePromises()` which creates three promises where one resolves after 1 second, one resolves after 2 seconds, and one rejects after 3 seconds. Log the status and value or reason for each promise when all are settled.
+Function `multiplePromises()` which creates three promises where one resolves after 1 second, one resolves after 2 seconds, and one rejects after 3 seconds. Log the status and value or reason for each promise when all are settled.
 - **Requirements**
   - Create three promises with specified delays.
   - Use Promise.allSettled to handle all promises.
   - Log the status and value or reason for each promise.
 
 ### Retrying a Failed Promise
-Write a function `startRetry()` which creates a function that retries a promise up to 3 times if it fails. If the promise eventually resolves, log the result. If it fails after all retries, log the error.
+Function `startRetry()` which creates a function that retries a promise up to 3 times if it fails. If the promise eventually resolves, log the result. If it fails after all retries, log the error.
 - **Requirements**
   - Create a function that retries a promise up to 3 times.
   - Log the result if the promise resolves.
   - Log the error if the promise fails after all retries.
 
 ### Throttling Promises
-Write a function `throttlePromises()` which creates a function that throttles promises so that only two promises are executed in parallel at any time. Ensure that once a promise is resolved, the next one starts.
+Function `throttlePromises()` which creates a function that throttles promises so that only two promises are executed in parallel at any time. Ensure that once a promise is resolved, the next one starts.
 - **Requirements**
   - Create a function that throttles promises with a specified concurrency limit.
   - Ensure that only two promises are executed in parallel at any time.
   - Log the results after all promises are resolved.
 
 ### Timeout for Fetch Requests
-Write a function `fetchWithTimeout()` that fetches data from a URL with a timeout. If the fetch takes longer than the timeout, it should reject.
+Function `fetchWithTimeout()` that fetches data from a URL with a timeout. If the fetch takes longer than the timeout, it should reject.
 - **Requirements**
   - Create a function that fetches data with a specified timeout.
   - Reject the promise if the fetch takes longer than the timeout.
   - Log the result or error.
 
 ### Async Function with Error Handling
-Write a class `AsyncQueue()` which creates a queue that processes asynchronous tasks one by one in sequence.
+Class `AsyncQueue()` which creates a queue that processes asynchronous tasks one by one in sequence.
 - **Requirements**
   - Create a queue that processes asynchronous tasks in sequence.
   - Ensure the tasks are processed one by one.
   - Log the completion of each task.
 
 ### Combining Async/Await with Generators
-Write a function `startAsyncGenerator()` that combines async/await with generators to handle a sequence of asynchronous tasks.
+Function `startAsyncGenerator()` that combines async/await with generators to handle a sequence of asynchronous tasks.
 - **Requirements**
   - Create a function that combines async/await with generators.
   - Ensure the function can handle a sequence of asynchronous tasks.
