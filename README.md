@@ -1,4 +1,4 @@
-# Exercise: JavaScript Async Functions
+# JavaScript Async Functions
 [![JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CSS](https://img.shields.io/badge/Made%20with-CSS-1572B6.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML](https://img.shields.io/badge/Made%20with-HTML-E34F26.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -6,7 +6,7 @@
 ### This is a project for Front-End Technologies May 2024 Course @ SoftUni
 ---
 
-1. [Exercise: JavaScript Async Functions I](#exercise-javascript-async-functions-i)
+1. [JavaScript Async Functions I](#exercise-javascript-async-functions-i)
     1. [Hello World](#hello-world)
     2. [Chained Promises](#chained-promises)
     3. [Simple Promise](#simple-promise)
@@ -22,7 +22,7 @@
     13. [Countdown Timer](#countdown-timer)
     14. [Sum Even Numbers in Background](#sum-even-numbers-in-background)
     15. [Simple Text Adventure Game](#simple-text-adventure-game)
-2. [Exercise: JavaScript Async Functions II](#exercise-javascript-async-functions-ii)
+2. [JavaScript Async Functions II](#exercise-javascript-async-functions-ii)
     1. [Simulating Network Request with Fetch](#simulating-network-request-with-fetch)
     2. [Handling Fetch Errors](#handling-fetch-errors)
     3. [Parallel Fetch Requests](#parallel-fetch-requests)
@@ -34,7 +34,7 @@
     9. [Async Function with Error Handling](#async-function-with-error-handling)
     10. [Combining Async/Await with Generators](#combining-asyncawait-with-generators)
 
-## Exercise: JavaScript Async Functions I
+## JavaScript Async Functions I
 
 ### Hello World
 Function `helloWorld()`, using `setTimeout` with callbacks, which logs two messages to the console with a time delay between them.
@@ -142,7 +142,7 @@ Creates a text-based adventure game that guides the player through choices leadi
   - Include simulated delays using promises and `setTimeout`.
   - Handle different scenarios and allow player to restart or end the game.
 
-## Exercise: JavaScript Async Functions II
+## JavaScript Async Functions II
 
 ### Simulating Network Request with Fetch
 Function `fetchData()` which fetches data and logs the JSON response.
