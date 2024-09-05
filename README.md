@@ -6,7 +6,7 @@
 ### This is a project for Front-End Technologies May 2024 Course @ SoftUni
 ---
 
-1. [JavaScript Async Functions I](#exercise-javascript-async-functions-i)
+1. [JavaScript Async Functions I](#javascript-async-functions-i)
     1. [Hello World](#hello-world)
     2. [Chained Promises](#chained-promises)
     3. [Simple Promise](#simple-promise)
@@ -22,7 +22,7 @@
     13. [Countdown Timer](#countdown-timer)
     14. [Sum Even Numbers in Background](#sum-even-numbers-in-background)
     15. [Simple Text Adventure Game](#simple-text-adventure-game)
-2. [JavaScript Async Functions II](#exercise-javascript-async-functions-ii)
+2. [JavaScript Async Functions II](#javascript-async-functions-ii)
     1. [Simulating Network Request with Fetch](#simulating-network-request-with-fetch)
     2. [Handling Fetch Errors](#handling-fetch-errors)
     3. [Parallel Fetch Requests](#parallel-fetch-requests)
