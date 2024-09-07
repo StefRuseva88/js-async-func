@@ -40,7 +40,7 @@ This project focuses on mastering asynchronous functions in JavaScript. It inclu
 ## JavaScript Async Functions I
 
 ### Hello World
-Simple function using `setTimeout` to print a greeting to the console. The first message, "Hello", appears immediately, while the second message, "World", shows up after a 2-second delay. This exercise introduces how JavaScript handles time-based asynchronous functions.    
+A Simple function wich is using `setTimeout` to print a greeting to the console. The first message, "Hello", appears immediately, while the second message, "World", shows up after a 2-second delay. This exercise introduces how JavaScript handles time-based asynchronous functions.    
 
 ### Chained Promises
 Function `chainedPromises()`, using `setTimeout` with callbacks, which logs a series of messages to the console in a sequence, with increasing delays, each one is slightly longer from the previous.
