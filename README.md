@@ -37,8 +37,6 @@
 ## Overview
 This project focuses on mastering asynchronous functions in JavaScript. It includes practical exercises, examples, and small applications focused on work with callbacks, promises, and the `async/await` syntax, which are essential for handling tasks like API requests, user interactions, and background operations.
 
-WE will explore various ways to handle asynchronous operations, from simple callbacks to more advanced techniques like promise chaining, error handling, and managing multiple asynchronous tasks in parallel or sequence.
-
 ## JavaScript Async Functions I
 
 ### Hello World
