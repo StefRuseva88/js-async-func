@@ -116,9 +116,6 @@ Class `AsyncQueue()` which creates an asynchronous task queue that processes one
 ### Combining Async/Await with Generators
 Combine the power of async/await with JavaScript generators to handle complex sequences of asynchronous tasks. This task gives you a deeper understanding of how to manage advanced asynchronous flows.
 
-## Contributing
-Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
-
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
